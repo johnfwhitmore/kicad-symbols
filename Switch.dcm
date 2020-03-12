@@ -120,6 +120,12 @@ K switch dual-pole double-throw DPDT spdt ON-ON
 F ~
 $ENDCMP
 #
+$CMP SW_DPDT_x3
+D Switch, Triple pole double throw, separate symbols
+K switch triple-pole double-throw DPDT spdt ON-ON
+F http://www.farnell.com/datasheets/2877710.pdf
+$ENDCMP
+#
 $CMP SW_DPST
 D Double Pole Single Throw (DPST) Switch
 K switch dual double-pole single-throw OFF-ON
