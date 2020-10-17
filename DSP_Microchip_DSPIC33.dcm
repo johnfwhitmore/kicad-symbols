@@ -6,6 +6,12 @@ K 16-bit Digital Signal Controller Microchip dsPIC
 F http://ww1.microchip.com/downloads/en/DeviceDoc/70616g.pdf
 $ENDCMP
 #
+$CMP DSPIC33EPxxxMU814-xPT
+D High-Performance, 16-bit Digital Signal Controller, 40MIPS, 30k SRAM, TQFP-144
+K 16-bit Digital Signal Controller Microchip dsPIC
+F http://ww1.microchip.com/downloads/en/DeviceDoc/70616g.pdf
+$ENDCMP
+#
 $CMP DSPIC33FJ128GP204
 D 40MIPS, 128k Flash, 8k SRAM
 K 16-bit Digital Signal Controller Microchip dsPIC
